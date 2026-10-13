@@ -1,0 +1,1 @@
+# Zabbix_SNMP_from_Host_Device_template
